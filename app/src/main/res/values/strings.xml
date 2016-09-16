@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Carrito</string>
+
+    <!--Login Activity-->
+    <string name="insert_username">Usuario</string>
+    <string name="insert_pass">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="login_failed">Usuario o contraseña incorrectos.</string>
+
+
+    <!--Label de la aplicación-->
+    <string name="label_products">Productos</string>
+    <string name="label_login">Login</string>
+
+
+    <!--List Products-->
+    <string name="price">Precio: </string>
+    <string name="example_product">Computador</string>
+    <string name="example_product_price">$12000</string>
+
+
+    <!--Intent-->
+    <string name="product_name_intent">product</string>
+    <string name="product_price_intent">price</string>
+    <string name="product_name_information">Producto: </string>
+    <string name="product_price_information">Precio: </string>
+    <string name="quantity_information">Cantidad: </string>
+    <string name="agregar">Agregar</string>
+    <string name="product_id_intent">id</string>
+
+    <string name="product_add_shopping_cart_sucess">El producto se ha añadido con exito</string>
+    <string name="product_add_shopping_cart_fail">Hubo un error, intente de nuevo.</string>
+
+    <string name="log_out">Cerrar Sesión</string>
+    <string name="menu_shopping_cart">Mi carrito.</string>
+    <string name="total_price_information">Total: </string>
+    <string name="example_product_quantity">1</string>
+
+    <string name="comprar">Comprar</string>
+
+    <string name="error_compra">Hubo un error en la compra</string>
+    <string name="compra_completa">Comprado</string>
+    <string name="total_pagar">Total a pagar: </string>
+    <string name="total_pagar_default">No posee productos para comprar </string>
+    <string name="error_cantidad">Debe ingresar una cantidad positiva</string>
+    <string name="cantidad_vacia">Debe ingresar una cantidad</string>
+
+
+</resources>

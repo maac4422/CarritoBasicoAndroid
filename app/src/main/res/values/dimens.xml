@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_top_login">30dp</dimen>
+    <dimen name="elevation_button">8dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+
+    <dimen name="text_product_size_list">30dp</dimen>
+    <dimen name="price_size_list">20dp</dimen>
+    <dimen name="etQuantity">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_bottom_cv">20dp</dimen>
+    <dimen name="text_shopping_cart_size_list">25dp</dimen>
+    <dimen name="margin_top_cv_information">2dp</dimen>
+
+    <dimen name="scCart">420dp</dimen>
+</resources>
